@@ -1,0 +1,10 @@
+    Bài tập chương: Lập trình C# - Khái niệm cơ bản. Biến hằng và các kiểu dữ liệu cơ sở
+
+Bài 1:
+Tính tổng, hiệu, tích, thương của hai số nguyên. Hai số này được lưu vào hai biến khác nhau.
+
+Bài 2:
+Tính phần nguyên, phần dư khi chia hai số nguyên.
+
+Bài 3:
+Tính trung bình cộng của ba số nguyên được nhập từ bàn phím.

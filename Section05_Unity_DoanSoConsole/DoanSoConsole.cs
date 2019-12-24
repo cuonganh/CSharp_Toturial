@@ -12,8 +12,8 @@ public class DoanSo : MonoBehaviour{
     }
 
     void StartGame(){
-        int min = 0;
-        int max = 100;
+        min = 0;
+        max = 100;
         guess = (max + min)/2;
 
         print("==================== Game Đoán Số v1.0 ====================");
